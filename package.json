@@ -1,0 +1,23 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" :"vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriteja-t/Personal-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriteja-t/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/sriteja-t/Personal-Portfolio#readme",
+  "dependencies": {
+    "vite": "^2.9.5"
+  }
+}

@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/sriteja-t/Personal-Portfolio#readme",
   "dependencies": {
-    "vite": "^2.9.5"
+    "vite": "^4.5.13"
   }
 }
